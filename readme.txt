@@ -5,3 +5,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 
 这里用来创建第一个分支dev
+
+这里创建一个解决冲突的分支。
