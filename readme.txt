@@ -6,4 +6,5 @@ Git tracks changes of files.
 
 这里用来创建第一个分支dev
 
-这里创建一个新的解决问题的分支。
+这里是修改后的总分支。
+
