@@ -1,4 +1,5 @@
 创建第一个句柄。
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-创建第二个句柄
+Git has a mutable index called stage.
+Git tracks changes.
